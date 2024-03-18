@@ -53,12 +53,12 @@
 .felicityfr3poxt3ngm {
 	padding: 5em;
 }
-.felicityfr3poxt3ngmb strong {
+.felicityfr3poxt3ngm strong {
 	font-weight: var(--button-font-weight) !important;
 }
-.felicityfr3poxt3ngmb .btn-primary,
-.felicityfr3poxt3ngmb .btn-primary:hover,
-.felicityfr3poxt3ngmb .btn-primary:not(:disabled):not(.disabled):active {
+.felicityfr3poxt3ngm .btn-primary,
+.felicityfr3poxt3ngm .btn-primary:hover,
+.felicityfr3poxt3ngm .btn-primary:not(:disabled):not(.disabled):active {
 	margin-top: 15px;
 	padding: var(--button-padding);
 	background-color: var(--success-Color);
